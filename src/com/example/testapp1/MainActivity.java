@@ -2,6 +2,7 @@
 package com.example.testapp1;
 
 
+// names right, send from ubuntu to zato
 //trying to get name right
 
 
