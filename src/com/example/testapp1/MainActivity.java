@@ -1,6 +1,7 @@
 
 package com.example.testapp1;
 
+// ubuntu push back to online
 // eclipse push up to online
 // another ubuntu push, zato can't push or pull
 // names right, send from ubuntu to zato
