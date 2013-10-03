@@ -1,7 +1,7 @@
 
 package com.example.testapp1;
 
-
+// another ubuntu push, zato can't push or pull
 // names right, send from ubuntu to zato
 //trying to get name right
 
